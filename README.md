@@ -5,6 +5,7 @@ Chrome 应用商店：<https://chrome.google.com/webstore/detail/memos-bber/cbhj
 一个通过浏览器插件发布 [Memos](https://usememos.com/) 的插件。基于 iSpeak-bber 修改，原作者为 [DreamyTZK](https://www.antmoe.com/)。
 
 ## 更新日志
+2024.09.15 点击获取链接按钮后，去掉链接前多余的空格
 
 2024.07.21 不兼容更新，已匹配 v0.22.3
 
