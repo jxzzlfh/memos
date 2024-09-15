@@ -517,7 +517,7 @@ $('#newtodo').click(function () {
 
 $('#getlink').click(function () {
   chrome.tabs.query({ active: true, currentWindow: true }, ([tab]) => {
-    var linkHtml = " ["+tab.title+"]("+tab.url+") "
+    var linkHtml = "[" + tab.title + "](" + tab.url + ")";
     if(tab.url){
       add(linkHtml);
     }else{
